@@ -8,6 +8,8 @@ This set of self-contained, use-case based examples is designed to be cloned by 
 
 > You can obtain a set of credentials from the [Contact Us](https://developer.here.com/contact-us) page on developer.here.com.
 
+See the [LICENSE](LICENSE) file in the root of this project for license details.
+
 ## Data Lens
 
 * [Visualize Mobile Network Antennae by Providers](telco-categorical-markers) - Visualize antennae for telecommunications mobile network operators, grouped by provider
