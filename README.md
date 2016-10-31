@@ -8,9 +8,11 @@ This set of self-contained, use-case based examples is designed to be cloned by 
 
 > You can obtain a set of credentials from the [Contact Us](https://developer.here.com/contact-us) page on developer.here.com.
 
-See the [LICENSE](LICENSE) file in the root of this project for license details.
+## License
 
-## Data Lens
+Unless otherwise noted in `LICENSE` files for specific files or directories, the [LICENSE](LICENSE) in the root applies to all content in this repository.
+
+## Examples
 
 * [Visualize Mobile Network Antennae by Providers](telco-categorical-markers) - Visualize antennae for telecommunications mobile network operators, grouped by provider
 * [Visualize Mobile Network Antennae by Technology](telco-antennas) - Visualize antennae for telecommunications mobile network operators, colored by technology and by azimuth
